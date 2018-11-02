@@ -13,9 +13,11 @@ author: 姜小白 # Add name author (optional)
 
 OK既然老师说do not mad,那就keep calm and carry on 好了，心中一阵哭哭麻麻救我！
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/eathand.jpg)
+
 然而我想老妈一定听到了我心中的呼唤，然后就在这时，老妈端着手机给我看一个朋友发的朋友圈，上书：
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/picpost10/bert.jpg)
+
 bulabula云云，接着老妈问我说你知道这个BERT是什么吗？本来还想Drop a beat的，结果一看题目，谷歌最强💪....呵呵🙃于是我很老实的承认说我并不知道这是什么，然而接下来老妈用一种近乎鄙夷的眼神侧眼白了我，转身就走了，边走边回头，撇嘴还念念悠悠的说："你学了那么久了，连什么是BERT都不知道，哎呦我都不知道你学的到底是什么......"
 
 WHAT?
